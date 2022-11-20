@@ -23,8 +23,8 @@
 }
 #tow{
   grid-area: r1-2;
-  justify-self: center;
-  padding-top: 10vh;
+  padding-left: 25vw;
+  align-self: center;
   font-size: 2vw;
 }
 #three{
