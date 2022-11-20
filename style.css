@@ -6,8 +6,6 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  width: 40%;
-  height: 100%;
   margin: 0px auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -47,11 +45,11 @@
 }
 
 #one img {
-  width: 40%;
+  width: 100%;
 }
 
 #five img {
-  width: 60%;
+  width: 110%;
   position: absolute;
   bottom: 0px;
   right: 0px;
@@ -64,7 +62,7 @@
 }
 
 #four p:nth-child(1) {
-  font-size: 2vw;
+  font-size: 1.6vw;
 }
 
 #four p:nth-child(3) {
@@ -73,12 +71,12 @@
 
 #four p:nth-child(2),
 #four p:nth-child(3) {
-  margin-left: 4.5vw;
+  margin-left: 2.5vw;
 }
 
 #four .center{
   border: 3px solid black;
-  font-size: 1.75vw;
+  font-size: 1.5vw;
   padding: 0.5vw 2.25vw;
 }
 
